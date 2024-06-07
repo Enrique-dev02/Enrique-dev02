@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I’m tommy johnson. Thanks for coming.
 
-<!--
-**Enrique-dev02/Enrique-dev02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑 About me.
+  Experienced Full-stack developer with expertise in blockchain technology, Web technology and Three.js .
 
-Here are some ideas to get you started:
+  As a strong full stack developer, I have attended many projects and contributed to increase the profit of their companies.
+  My main goal is recognize correctly about the requirements of all clients and implement their idea rightly. Also I always keep focus to improve the performance of project and optimize of code structure.
+  We should be establish perfect infra structure before start the project.
+  That is my main point that I took meanwhile doing the many projects. I will always work in this way with any client or company. Give me a chance to make big thing. Let's create big profit together!
+  👀 I’m interested in web design and 3D graph.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Contact
+- skype: live:.cid.4bff53152f3d85b2
+
+- ## Skills
+- **Programming Languages**: JavaScript, Python, Java
+- **Technologies & Frameworks**: React.js,Vue.js Node.js, Laravel, Django, Spring Boot
+- **Database Management**: MongoDB, PostgreSQL, MySQL
+- **Cloud Platforms**: AWS (EC2, S3, Lambda), Azure, Google Cloud Platform
+- **Networking**: TCP/IP, DNS, VPN
+- **Security**: OWASP Top 10, SSL/TLS, SIEM
+- **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
+- **Project Management**: Agile, Scrum, Kanban
+- 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
+
