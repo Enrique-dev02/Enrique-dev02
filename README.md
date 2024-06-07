@@ -1,4 +1,4 @@
-## 👋 Hi, I’m tommy johnson. Thanks for coming.
+## 👋 Hi, Thanks for coming.
 
 ## 🧑 About me.
   Experienced Full-stack developer with expertise in blockchain technology, Web technology and Three.js .
@@ -21,5 +21,4 @@
 - **Security**: OWASP Top 10, SSL/TLS, SIEM
 - **DevOps**: Docker, Kubernetes, Jenkins, GitLab CI/CD
 - **Project Management**: Agile, Scrum, Kanban
-- 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
 
